@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Search App</string>
+
+    <!--Popular Fragment-->
+    <string name="txt_popular">Popular</string>
+
+    <!--Search Fragment-->
+    <string name="txt_search_not_found">Not found</string>
+    <string name="txt_search">Enter the movie name</string>
+
+    <!--Buttons-->
+    <string name="mv_bn_description">Movie Button</string>
+    <string name="back_bn_description">Back Button</string>
+
+    <!--Errors-->
+    <string name="txt_error_1">There was an error loading data,</string>
+    <string name="txt_error_2">please check your network connection</string>
+    <string name="txt_error_repeat">Repeat</string>
+
+</resources>
